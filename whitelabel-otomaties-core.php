@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Otomaties Whitelabel
  * Description: Whitelabel Otomaties Core
- * Version: 1.0
+ * Version:           1.0.1
  * Author: Tom Broucke
  * Author URI: https://tombroucke.be
  * License: GPL2
