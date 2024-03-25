@@ -1,6 +1,6 @@
 {
     "name": "tombroucke/whitelabel-otomaties-core",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "authors": [
         {
             "name": "Tom Broucke",
