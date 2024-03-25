@@ -1,0 +1,11 @@
+{
+    "name": "tombroucke/whitelabel-otomaties-core",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Tom Broucke",
+            "email": "tom@tombroucke.be"
+        }
+    ],
+    "require": {}
+}
